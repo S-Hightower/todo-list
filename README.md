@@ -14,10 +14,10 @@
 
 ## Demo Images
 
-<img src="images/demo1.png" alt="demo shot" width="500" height="400">
-<img src="images/demo2.png" alt="demo shot" width="500" height="400">
-<img src="images/demo3.png" alt="demo shot" width="500" height="400">
-<img src="images/demo4.png" alt="demo shot" width="500" height="400">
+<img src="demo_images/demo1.png" alt="demo shot" width="500" height="400">
+<img src="demo_images/demo2.png" alt="demo shot" width="500" height="400">
+<img src="demo_images/demo3.png" alt="demo shot" width="500" height="400">
+<img src="demo_images/demo4.png" alt="demo shot" width="500" height="400">
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
