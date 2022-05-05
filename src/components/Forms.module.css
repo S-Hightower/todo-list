@@ -1,0 +1,85 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.container{
+    background-color: rgb(208, 241, 201);
+    padding: 10px;
+    height: 600px;
+    width: 600px;
+    margin:auto;
+    margin-top: 30px;
+    border-radius: 5px;
+    border-top: 10px solid;
+    border-bottom: 10px solid;
+    border-image: linear-gradient(90deg,
+    #c4e17f 0 85px,
+    #f7fdca 0 160px,
+    #fad071 0 235px,
+    #f0766b 0 310px,
+    #db9dbe 0 385px,
+    #c49cdf 0 460px,
+    #6599e2 0 535px,
+    #61c2e4 0 610px) 10;
+}
+
+.header{
+    align-content: center;
+}
+
+input{
+    background-color: whitesmoke;
+    float: left;
+    width: 350px;
+    line-height: 2;
+    margin-top: 15px;
+    font-weight: bolder;
+}
+
+button{
+    background-color: rgb(241, 163, 209);
+    margin-top: 12px;
+    font-weight: bolder;
+    height: 30px;
+    width: 100px;
+    box-shadow: 2px 2px 0.3px 0.9px darkblue;
+}
+
+.second {
+    display: flex;
+    justify-content: space-evenly;
+    width: 300px;
+    margin: auto;
+}
+
+.listBox {
+    margin: 25px 0px;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+.checkbox {
+    width: 50px;
+}
+
+.list {
+    align-content: center;
+    margin-top: 10px;
+}
+
+h3 {
+    margin-top: 10px;
+}
+
+.deleteButton { 
+    background-color: rgb(241, 163, 209);
+    margin-top: 12px;
+    margin-left: 15px;
+    font-weight: bolder;
+    height: 30px;
+    width: 100px;
+    box-shadow: 2px 2px 0.3px 0.9px darkblue;
+}
