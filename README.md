@@ -1,11 +1,4 @@
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/S-Hightower/Flick-ITS">
-    <img src="images/flickITS.png" alt="Logo" width="400" height="400">
-  </a>
-
-<h3 align="center">Flick ITS</h3>
+<h3 align="center">To Do List</h3>
 
   <p align="center">
     This is an MVP of an Issue Tracking System I am building that sorts issue according to a "low, medium, high" severity system and OS with Admin and Tech/User access.
