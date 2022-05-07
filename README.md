@@ -12,6 +12,14 @@
 * JavaScript
 * React.js
 
+## Deployed With
+
+* Heroku
+
+##Deployment Link
+
+<a href="https://to9do.herokuapp.com/">Click here to view deployed project!</a>
+
 ## Demo Images
 
 <img src="demo_images/demo1.png" alt="demo shot" width="500" height="400">
